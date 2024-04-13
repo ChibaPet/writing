@@ -1,4 +1,4 @@
-# a friendly chicken’s tale
+## a friendly chicken’s tale
 ### by Mason Loring Bliss
 
 Outside? There is... outside.
