@@ -184,7 +184,7 @@ there's a fancy, comfy chair with a low table next to it, a grand piano, a
 large book-case filled with books, a Victrola, which finishes playing as we
 walk in, and best of all, musical instruments! I am afraid to touch
 anything, but my friend pushes me towards a stringed instrument - a guitar
-- and invites me to try it. My wingtip brushes a string, and it vibrates,
+\- and invites me to try it. My wingtip brushes a string, and it vibrates,
 making a rich sound, and I am transfixed. I brush it again, stroking two
 strings this time, and it makes a more complex sound. I can feel it
 traveling up my feathers. I brush each string in turn, and each makes a
@@ -411,5 +411,4 @@ Play gtar again, watching giant bird go. Frens gone. Maybe they come back
 and listen around fire. Miss frens, miss school, miss what was. I cry but
 eyes can't make tears. I lower head and close eyes, and play.
 
-
-Copyright 2024 by Mason Loring Bliss.
+<em>Copyright 2024 by Mason Loring Bliss.</em>
