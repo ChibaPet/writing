@@ -63,7 +63,7 @@ and that makes us bigger and more capable than the animals that came before
 us. I still have trouble holding my pen, but I'm working at it.
 
 Most of us in my class are chickens, but there are some other birds with us
-- songbirds, smaller and more colourful than us; turkeys, bigger and
+\- songbirds, smaller and more colourful than us; turkeys, bigger and
 silly-looking but very dignified for all that. There is even a raven in our
 class. When I first met him I was frightened of him, but his ready laugh
 and the look of mischief in his eye as he tells a new joke quickly put an
